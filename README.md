@@ -1,6 +1,6 @@
 # Linux Auto-Setup Script 🚀
 
-This is a simple Bash script to automate the basic setup of a new Linux server (Ubuntu-based). It’s ideal for students, beginners, or DevOps learners who want to quickly configure a VM on AWS, GCP, or any local virtual machine.
+This is a simple Bash script to automate the basic setup of a new Linux server (Ubuntu-based). It’s ideal for students, beginners, or anyone who want to quickly configure a VM on AWS, GCP, or any local virtual machine.
 
 ---
 
