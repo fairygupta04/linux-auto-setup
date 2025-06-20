@@ -30,5 +30,5 @@ This is a simple Bash script to automate the basic setup of a new Linux server (
 ```bash
 git clone https://github.com/fairygupta04/linux-auto-setup.git
 cd linux-auto-setup
-chmod +x setup.sh
-sudo ./setup.sh
+chmod +x autosetup.sh
+sudo ./autosetup.sh
