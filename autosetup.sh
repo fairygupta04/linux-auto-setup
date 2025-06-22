@@ -5,7 +5,7 @@ sudo apt install -y git curl vim net-tools htop ufw
 sudo adduser newuser1 --gecos "" --disabled-password
 echo "newuser1:passwrd1246 " | sudo chpasswd
 sudo usermod -aG sudo newuser1
-sudo ufw allow OpenSSHi
+sudo ufw allow OpenSSH
 echo "-y" | sudo ufw enable
 sudo timedatectl set-timezone Asia/Kolkata
 sudo hostnamectl set-hostname my-vm1
